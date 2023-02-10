@@ -31,25 +31,25 @@
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-      <card>
+      <ul>
     <a href="https://github.com/kevinkkimutai/Charity-App">Charity-App</a>
-   </card>
+   </ul>
 
-<card>
+<ul>
     <a href="https://github.com/kevinkkimutai/l3-ruby-fundamentals-pt2 ">l3-ruby-fundamentals-pt2 </a>
-   </card>
+   </ul>
 
-<card>
+<ul>
     <a href="https://github.com/kevinkkimutai/Bot-Battlr">Bot-Battlr</a>
-   </card>
+   </ul>
 
-<card>
+<ul>
     <a href="https://github.com/kevinkkimutai/react-sidebar">react-sidebar</a>
-   </card>
+   </ul>
     
-<card>
+<ul>
     <a href="https://github.com/kevinkkimutai/phase-0-html-experiencing-html-lab">phase-0-html-experiencing-html-lab</a>
-   </card>
+   </ul>
   </p>
 
   <a href="https://github.com/kevinkkimutai?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
