@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/kevinkkimutai">
-  <b style="font-size: 30px;" >Kelvin Kimutai</b>
-    </a>
-</p>
+   #  Kelvin Kimutai
 
 <p align="center">
 
@@ -26,31 +22,16 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kevinkkimutai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  
 </p>
-
-
-
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-      <ul>
-    <a href="https://github.com/kevinkkimutai/Charity-App">Charity-App</a>
-   </ul>
 
-<ul>
-    <a href="https://github.com/kevinkkimutai/l3-ruby-fundamentals-pt2 ">l3-ruby-fundamentals-pt2 </a>
-   </ul>
 
-<ul>
-    <a href="https://github.com/kevinkkimutai/Bot-Battlr">Bot-Battlr</a>
-   </ul>
-
-<ul>
-    <a href="https://github.com/kevinkkimutai/react-sidebar">react-sidebar</a>
-   </ul>
-    
-<ul>
-    <a href="https://github.com/kevinkkimutai/phase-0-html-experiencing-html-lab">phase-0-html-experiencing-html-lab</a>
-   </ul>
-  </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=phase-3-ruby-oo-self-count-sentences-lab)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=Charity-App)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=l3-ruby-fundamentals-pt2)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=phase-0-html-issue-bot-9000-lab )](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=react-sidebar)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=phase-0-html-experiencing-html-lab)](https://github.com/anuraghazra/github-readme-stats)
 
   <a href="https://github.com/kevinkkimutai?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
