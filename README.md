@@ -22,23 +22,14 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kevinkkimutai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  
 </p>
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=phase-3-ruby-oo-self-count-sentences-lab)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=Charity-App)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=l3-ruby-fundamentals-pt2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=phase-0-html-issue-bot-9000-lab )](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=react-sidebar)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinkkimutai&repo=phase-0-html-experiencing-html-lab)](https://github.com/anuraghazra/github-readme-stats)
-
-  <a href="https://github.com/kevinkkimutai?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-
 
 <details open> 
+   <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kevinkkimutai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevinkkimutai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kevinkkimutai's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kevinkkimutai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -134,12 +125,7 @@
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kevinkkimutai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevinkkimutai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kevinkkimutai's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kevinkkimutai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -148,17 +134,7 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kevinkkimutai's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=kevinkkimutai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
 
-  
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#76](https://github.com/kevinkkimutai/custom-icon-badges/pull/716) in [kevinkkimutai/personal](https://github.com/kevinkkimutai/personal)
-2. 🎉 Merged PR [#18](https://github.com/kevinkkimutai/table2ascii/pull/98) in [kevinkkimutai/Charity-App](https://github.com/kevinkkimutai/Charity-App)
-3. 🎉 Merged PR [#39](https://github.com/kevinkkimutai/table2ascii/pull/99) in [kevinkkimutai/Bot-Battlr](https://github.com/kevinkkimutai/Bot-Battlr)
-4. 🗣 Commented on [#48](https://github.com/kevinkkimutai/Bank-Of-Flatiron) in [kevinkkimutai/Bank-Of-Flatiron](https://github.com/kevinkkimutai/Bank-Of-Flatiron)
-5. ❗️ Closed issue [#44](https://github.com/kevinkkimutai/phase-3-running-ruby-code) in [kevinkkimutai/phase-3-running-ruby-code](https://github.com/kevinkkimutai/phase-3-running-ruby-code)
-<!--END_SECTION:activity-->
 
 </details>
 
